@@ -1,0 +1,21 @@
+# Virtual environment
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
